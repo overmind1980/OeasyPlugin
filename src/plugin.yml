@@ -1,0 +1,4 @@
+name: oeasyPlugin
+version: 0.1
+author: overmind
+main: org.oeasy.spigot.plugin.MyPlugin
